@@ -4,7 +4,7 @@ category: CLANKY
 title: 'Předali jsme 100 vánoček a marmelád pro Charitu a balíčky plné energie pro vytížené zdravotníky'
 date: 2021-12-23
 author: František Elfmark
-authorId: 
+authorId: frantisek.elfmark
 image: posts/vanocky2021.jpg
 tags: 
 - pirati-pomahaji
